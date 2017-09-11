@@ -11,6 +11,12 @@ A jungle of **notes, ideas, solutions, configs, scripts**.
 
 Open each subfolder to find out how it works.
 
+**Subfolder available**
+
+```
+git/
+```
+
 **Inspiration**
 
 I was inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles).
