@@ -1,7 +1,7 @@
 # .gitignore file
 # Author: Gabriele De Rosa (@derogab)
 # License: MIT - http://opensource.org/licenses/MIT
-# Latest version: https://github.com/derogab/dotfiles/git/gitignore
+# Latest version: https://raw.githubusercontent.com/derogab/dotfiles/master/git/.gitignore
 
 # Compiled source
 *.com
