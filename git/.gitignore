@@ -322,3 +322,8 @@ typings/
 
 # dotenv environment variables file
 .env
+
+
+### SyncThing ###
+# SyncThing default folder
+.stfolder
