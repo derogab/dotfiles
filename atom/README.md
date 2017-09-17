@@ -2,7 +2,7 @@
 
 Something to use with **atom**.
 
-**Files and folders available**
+**Subfolder available**
 
 [`./ftp/`](ftp/) contains important information to manage an ftp connection.
 
