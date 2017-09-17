@@ -13,9 +13,9 @@ Open each subfolder to find out how it works.
 
 **Subfolder available**
 
-```
-git/
-```
+[`./git/`](git/) contains git config files.
+
+[`./atom/`](atom/) contains best atom packages and how to install/use them.
 
 **Inspiration**
 
