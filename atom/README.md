@@ -2,6 +2,10 @@
 
 Something to use with **atom**.
 
+**Install Atom**
+
+Download the [latest release](https://github.com/atom/atom/releases/latest) and install it. Or build it directly from [source code](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md).
+
 **Subfolder available**
 
 [`./ftp/`](ftp/) contains important information to manage an ftp connection.
