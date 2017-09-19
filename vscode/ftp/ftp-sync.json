@@ -1,0 +1,24 @@
+{
+    "remotePath": "FOLDER_REMOTE_PATH",
+    "host": "YOUR_HOST",
+    "username": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}

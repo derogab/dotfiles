@@ -17,6 +17,8 @@ Open each subfolder to find out how it works.
 
 [`./atom/`](atom/) contains best atom packages and how to install/use them.
 
+[`./vscode/`](vscode/) contains best vscode packages and how to install/use them.
+
 **Inspiration**
 
 I was inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles).
