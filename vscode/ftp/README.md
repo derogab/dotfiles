@@ -16,4 +16,4 @@ Read the [official guide](https://github.com/lukasz-wronski/vscode-ftp-sync#usag
 
 **Files available**
 
-`ftp-sync.json` is a basic example config file to use with Remote-FTP. It must be placed in the .vscode subfolder.
+`ftp-sync.json` is a basic example config file to use with ftp-sync. It must be placed in the .vscode subfolder.
