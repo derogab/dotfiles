@@ -15,9 +15,9 @@ Open each subfolder to find out how it works.
 
 [`./git/`](git/) contains git config files.
 
-[`./atom/`](atom/) contains best atom packages and how to install/use them.
+[`./atom/`](atom/) contains best atom packages, notes and config files.
 
-[`./vscode/`](vscode/) contains best vscode packages and how to install/use them.
+[`./vscode/`](vscode/) contains best vscode packages, notes and config files.
 
 **Inspiration**
 
