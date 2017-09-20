@@ -10,7 +10,7 @@ Download the [latest release](https://github.com/atom/atom/releases/latest) and 
 
 [`./ftp/`](ftp/) contains important information to manage an ftp connection.
 
-[`./beautify/`](ftp/) is useful to improve a file.
+[`./beautify/`](beautify/) is useful to improve a file.
 
 **Install All**
 
