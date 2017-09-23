@@ -19,6 +19,10 @@ Open each subfolder to find out how it works.
 
 [`./vscode/`](vscode/) contains best vscode packages, notes and config files.
 
+[`./telegram/`](telegram/) contains a personal telegram theme.
+
+[`./dns/`](dns/) contains notes to configure dns.
+
 **Inspiration**
 
 I was inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles).
