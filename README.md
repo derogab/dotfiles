@@ -1,4 +1,5 @@
-# dotfiles
+![dotfiles](./header.png)
+---
 
 [![GitHub stars](https://img.shields.io/github/stars/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/network)
