@@ -8,26 +8,28 @@
 
 A jungle of **notes, ideas, solutions, configs, scripts**.
 
-**Usage**
+## Usage
 
 Open each subfolder to find out how it works.
 
-**Subfolder available**
-
-[`./git/`](git/) contains git config files.
+### Subfolder available
 
 [`./atom/`](atom/) contains best atom packages, notes and config files.
 
-[`./vscode/`](vscode/) contains best vscode packages, notes and config files.
+[`./dns/`](dns/) contains notes to configure dns.
+
+[`./docker/`](docker/) contains config files and scripts for docker.
+
+[`./git/`](git/) contains git config files.
 
 [`./telegram/`](telegram/) contains a personal telegram theme.
 
-[`./dns/`](dns/) contains notes to configure dns.
+[`./vscode/`](vscode/) contains best vscode packages, notes and config files.
 
-**Inspiration**
+## Inspiration
 
 I was inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles).
 
-**Donate**
+## Donate
 
-If these files help you reduce time to develop, you can [give me a cup of coffee](https://www.paypal.me/derogab) :)
+If these files help you reduce time to develop, you can [give me a cup of coffee](https://www.paypal.me/derogab) ツ
