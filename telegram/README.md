@@ -2,6 +2,6 @@
 
 Something to use with **telegram**.
 
-**Subfolder available**
+### Subfolder available
 
 [`./desktop/`](desktop/) contains dotfiles about telegram desktop.

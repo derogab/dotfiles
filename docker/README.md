@@ -2,6 +2,6 @@
 
 Some config files and scripts for **docker**.
 
-**Subfolder available**
+### Subfolder available
 
 [`./lamp/`](lamp/) contains instructions to configurate a local webserver.

@@ -21,6 +21,6 @@ Save and exit.
 
 _Keep calm: this procedure may be temporary. After a reboot the file could come back as originally!_
 
-**Files available**
+### Files available
 
 `resolv.conf` is a linux basic dns config file .

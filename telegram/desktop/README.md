@@ -2,11 +2,11 @@
 
 Something to use with **telegram desktop**.
 
-**Install Telegram Desktop**
+### Install Telegram Desktop
 
 Download the latest release ([github](https://github.com/telegramdesktop/tdesktop/releases/latest) / [official website](https://desktop.telegram.org)) and install it. Or build it directly from [source code](https://github.com/telegramdesktop/tdesktop/blob/dev/docs/building-cmake.md).
 
-**Subfolder available**
+### Subfolder available
 
 [`./theme/`](theme/) contains theme for telegram desktop.
 
