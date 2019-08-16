@@ -22,6 +22,8 @@ Open each subfolder to find out how it works.
 
 [`./git/`](git/) contains git config files.
 
+[`./plank/`](plank/) contains plank config files.
+
 [`./telegram/`](telegram/) contains a personal telegram theme.
 
 [`./vscode/`](vscode/) contains best vscode packages, notes and config files.
