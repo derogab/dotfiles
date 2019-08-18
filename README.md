@@ -22,6 +22,8 @@ Open each subfolder to find out how it works.
 
 [`./git/`](git/) contains git config files.
 
+[`./linux/`](linux/) contains some personal linux configurations.
+
 [`./plank/`](plank/) contains plank config files.
 
 [`./telegram/`](telegram/) contains a personal telegram theme.
