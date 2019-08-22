@@ -16,6 +16,8 @@ Open each subfolder to find out how it works.
 
 [`./atom/`](atom/) contains best atom packages, notes and config files.
 
+[`./conky/`](conky/) contains config files and scripts for conky.
+
 [`./dns/`](dns/) contains notes to configure dns.
 
 [`./docker/`](docker/) contains config files and scripts for docker.
