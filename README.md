@@ -28,6 +28,8 @@ Open each subfolder to find out how it works.
 
 [`./plank/`](plank/) contains plank config files.
 
+[`./restic/`](restic/) contains restic install methods.
+
 [`./telegram/`](telegram/) contains a personal telegram theme.
 
 [`./vscode/`](vscode/) contains best vscode packages, notes and config files.
