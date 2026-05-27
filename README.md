@@ -12,27 +12,29 @@ A jungle of **notes, ideas, solutions, configs, scripts**.
 
 Open each subfolder to find out how it works.
 
-### Subfolder available
+### Archived subfolders
 
-[`./atom/`](atom/) contains best atom packages, notes and config files.
+The following folders have been moved to `.archive/` for historical reference.
 
-[`./conky/`](conky/) contains config files and scripts for conky.
+[`./.archive/atom/`](.archive/atom/) contains best atom packages, notes and config files.
 
-[`./dns/`](dns/) contains notes to configure dns.
+[`./.archive/conky/`](.archive/conky/) contains config files and scripts for conky.
 
-[`./docker/`](docker/) contains config files and scripts for docker.
+[`./.archive/dns/`](.archive/dns/) contains notes to configure dns.
 
-[`./git/`](git/) contains git config files.
+[`./.archive/docker/`](.archive/docker/) contains config files and scripts for docker.
 
-[`./linux/`](linux/) contains some personal linux configurations.
+[`./.archive/git/`](.archive/git/) contains git config files.
 
-[`./plank/`](plank/) contains plank config files.
+[`./.archive/linux/`](.archive/linux/) contains some personal linux configurations.
 
-[`./restic/`](restic/) contains restic install methods.
+[`./.archive/plank/`](.archive/plank/) contains plank config files.
 
-[`./telegram/`](telegram/) contains a personal telegram theme.
+[`./.archive/restic/`](.archive/restic/) contains restic install methods.
 
-[`./vscode/`](vscode/) contains best vscode packages, notes and config files.
+[`./.archive/telegram/`](.archive/telegram/) contains a personal telegram theme.
+
+[`./.archive/vscode/`](.archive/vscode/) contains best vscode packages, notes and config files.
 
 ## Inspiration
 
