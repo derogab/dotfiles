@@ -1,4 +1,4 @@
-![dotfiles](./header.png)
+![dotfiles](./.github/assets/header.png)
 ---
 
 [![GitHub stars](https://img.shields.io/github/stars/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/stargazers)
