@@ -60,6 +60,15 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## 5. Documentation
+
+**Smart documentation: a lot, but what really is useful.**
+
+- Use docstrings and comments throughout the code.
+- Avoid comments about WHAT when it is already clearly and immediately understandable from the code itself.
+- Prefer commenting about the WHY of an implementing decision.
+- Use both WHAT + WHY when both are needed.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
