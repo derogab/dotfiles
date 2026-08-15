@@ -8,7 +8,7 @@ Open each subfolder to find out how it works.
 
 | Resource | Description |
 |---|---|
-| [`User System Prompt`](./ai-agents/AGENTS.md) | Behavioral guidelines for AI coding agents, inspired by Karpathy |
+| [`Agents Guidelines`](./ai-agents/AGENTS.md) | Behavioral guidelines for AI coding agents, inspired by Karpathy |
 
 ### Archive
 
