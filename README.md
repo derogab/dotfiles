@@ -1,10 +1,4 @@
 ![dotfiles](./.github/assets/header.png)
----
-
-[![GitHub stars](https://img.shields.io/github/stars/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/network)
-[![GitHub issues](https://img.shields.io/github/issues/derogab/dotfiles.svg)](https://github.com/derogab/dotfiles/issues)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/derogab)
 
 A jungle of **notes, ideas, solutions, configs, scripts**.
 
@@ -12,7 +6,11 @@ A jungle of **notes, ideas, solutions, configs, scripts**.
 
 Open each subfolder to find out how it works.
 
-### Archived subfolders
+| Resource | Description |
+|---|---|
+| [`User System Prompt`](./ai-agents/AGENTS.md) | Behavioral guidelines for AI coding agents, inspired by Karpathy |
+
+### Archive
 
 The following folders have been moved to `.archive/` for historical reference.
 
