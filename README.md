@@ -28,7 +28,7 @@ The following folders have been moved to `.archive/` for historical reference.
 
 [`./.archive/plank/`](.archive/plank/) contains plank config files.
 
-[`./.archive/restic/`](.archive/restic/) contains restic install methods.
+[`./.archive/restic/`](.archive/restic/) contains restic installation methods.
 
 [`./.archive/telegram/`](.archive/telegram/) contains a personal telegram theme.
 
@@ -36,8 +36,17 @@ The following folders have been moved to `.archive/` for historical reference.
 
 ## Inspiration
 
-I was inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles).
+Even though dotfiles are a common thing, I was initially inspired by [ptkdev/dotfiles](https://www.github.com/ptkdev/dotfiles) for the first version.
 
-## Donate
+## Credits
 
-If these files help you reduce time to develop, you can [give me a cup of coffee](https://www.paypal.me/derogab) ツ
+_dotfiles_ is made with ♥ by [derogab](https://github.com/derogab) and released under the [MIT](./LICENSE) license.
+
+## Contributors
+
+<a href="https://github.com/derogab/dotfiles/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=derogab/dotfiles" />
+</a>
+
+## Tip
+If you like these dotfiles or directly benefit from them, please consider [buying me a coffee](https://derogab.com/donate).
