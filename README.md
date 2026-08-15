@@ -14,25 +14,18 @@ Open each subfolder to find out how it works.
 
 The following folders have been moved to `.archive/` for historical reference.
 
-[`./.archive/atom/`](.archive/atom/) contains best atom packages, notes and config files.
-
-[`./.archive/conky/`](.archive/conky/) contains config files and scripts for conky.
-
-[`./.archive/dns/`](.archive/dns/) contains notes to configure dns.
-
-[`./.archive/docker/`](.archive/docker/) contains config files and scripts for docker.
-
-[`./.archive/git/`](.archive/git/) contains git config files.
-
-[`./.archive/linux/`](.archive/linux/) contains some personal linux configurations.
-
-[`./.archive/plank/`](.archive/plank/) contains plank config files.
-
-[`./.archive/restic/`](.archive/restic/) contains restic installation methods.
-
-[`./.archive/telegram/`](.archive/telegram/) contains a personal telegram theme.
-
-[`./.archive/vscode/`](.archive/vscode/) contains best vscode packages, notes and config files.
+| Resource | Description |
+|---|---|
+| [`atom`](./.archive/atom/) | The best Atom packages, notes, and config files |
+| [`conky`](./.archive/conky/) | Config files and scripts for Conky |
+| [`dns`](./.archive/dns/) | Notes to configure DNS |
+| [`docker`](./.archive/docker/) | Config files and scripts for Docker |
+| [`git`](./.archive/git/) | Git config files |
+| [`linux`](./.archive/linux/) | Some personal Linux configurations |
+| [`plank`](./.archive/plank/) | Plank config files |
+| [`restic`](./.archive/restic/) | Restic installation methods |
+| [`telegram`](./.archive/telegram/) | A personal Telegram theme |
+| [`vscode`](./.archive/vscode/) | The best VS Code packages, notes, and config files |
 
 ## Inspiration
 
