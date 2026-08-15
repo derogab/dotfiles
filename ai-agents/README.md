@@ -1,9 +1,20 @@
-# Coding Agents
+# AI Agents
 
-Behavioral guidelines for AI coding agents, designed to reduce common LLM coding mistakes: overcomplicated solutions, unrequested features, silent assumptions, and sloppy edits.
+Behavioral guidelines for AI coding agents, inspired by [Karpathy](https://raw.githubusercontent.com/multica-ai/andrej-karpathy-skills/refs/heads/main/CLAUDE.md).
 
-The `AGENTS.md` file can be dropped into any project (or merged with project-specific instructions) to steer agents toward thinking before coding, simplicity first, surgical changes, goal-driven execution, and meaningful documentation.
+## Usage
 
-## Inspiration
+Symlink `AGENTS.md` to the global location used by your agent:
 
-Inspired by [Andrej Karpathy's behavioral guidelines](https://raw.githubusercontent.com/multica-ai/andrej-karpathy-skills/refs/heads/main/CLAUDE.md) for LLM coding assistants.
+| Agent | Global location |
+|---|---|
+| Pi Agent | `~/.pi/agent/AGENTS.md` |
+| OpenCode | `~/.config/opencode/AGENTS.md` |
+| Claude Code | `~/.claude/CLAUDE.md` |
+| Codex | `~/.codex/AGENTS.md` |
+
+Example:
+
+```bash
+ln -s /path/to/dotfiles/ai-agents/AGENTS.md ~/.pi/agent/AGENTS.md
+```
