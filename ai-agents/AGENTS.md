@@ -69,6 +69,18 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 - Prefer commenting about the WHY of an implementing decision.
 - Use both WHAT + WHY when both are needed.
 
+## 6. Smart Architecture
+
+**Everything has a reason to exist and a clear place to belong. Don't mix responsibilities.**
+
+- Give each module, file, and document a specific purpose. Keep related information together instead of scattering or duplicating it across code and documentation. Don't add layers or files without a concrete need.
+- Keep `README.md` minimal and human-readable: what the project is, how to get started, and essential usage or setup information. Update it when those facts materially change, not for every implementation detail or minor code change. It is an entry point, not a development diary or changelog.
+- Keep `AGENTS.md` focused on durable, project-wide guidance: conventions, architectural boundaries, and essential build or test commands. Update it when those instructions change, not after every commit. Avoid transient implementation details and task summaries that make it stale as soon as the code moves on.
+- Put implementation-specific WHAT and WHY beside the relevant code, using JSDoc, docstrings, or focused comments when needed. Explain non-obvious behavior, constraints, and decisions where maintainers will encounter them; and not in a README wall of text they must search separately.
+- Put broader explanations that cannot live beside one piece of code in focused documentation, and link to them rather than copying them everywhere. Keep change history in Git or an existing changelog, not in project introductions or agent instructions.
+
+The test: Does this belong here, and does it help the reader working here? If not, move it to the right place or leave it out.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
